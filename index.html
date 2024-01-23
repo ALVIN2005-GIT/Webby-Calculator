@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- FONTS GOOGLE -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet" />
+    <!-- CSS FILES -->
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Web Calculator</title>
+  </head>
+  <body>
+    <main class="container">
+      <section class="wrapper">
+        <!-- DISPLAY FOR THE NUMBER -->
+        <article class="display">
+          <input class="displays" type="text" disabled />
+          <input class="displays_live" type="text" disabled />
+        </article>
+        <!-- CALCULATOR BUTTONS -->
+        <article class="calc-buttons">
+          <button class="buttons clear" onclick="clearDisplay()">AC</button>
+          <button class="buttons delete" onclick="deleteLastCharacter()">DEL</button>
+          <button class="buttons" onclick="calculatePercentage()">%</button>
+          <button class="buttons" onclick="appendToDisplay('/')">/</button>
+          <button class="buttons" onclick="appendToDisplay('7')">7</button>
+          <button class="buttons" onclick="appendToDisplay('8')">8</button>
+          <button class="buttons" onclick="appendToDisplay('9')">9</button>
+          <button class="buttons" onclick="appendToDisplay('*')">*</button>
+          <button class="buttons" onclick="appendToDisplay('6')">6</button>
+          <button class="buttons" onclick="appendToDisplay('5')">5</button>
+          <button class="buttons" onclick="appendToDisplay('4')">4</button>
+          <button class="buttons" onclick="appendToDisplay('-')">-</button>
+          <button class="buttons" onclick="appendToDisplay('1')">1</button>
+          <button class="buttons" onclick="appendToDisplay('2')">2</button>
+          <button class="buttons" onclick="appendToDisplay('3')">3</button>
+          <button class="buttons" onclick="appendToDisplay('+')">+</button>
+          <button class="buttons zero" onclick="appendToDisplay('0')">0</button>
+          <button class="buttons dot" onclick="appendToDisplay('.')">.</button>
+          <button class="buttons equal" onclick="calculateResult()">=</button>
+        </article>
+      </section>
+    </main>
+  </body>
+
+  <!-- JAVASCRIPT FILE -->
+  <script src="js/script.js"></script>
+</html>
