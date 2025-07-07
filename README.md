@@ -47,8 +47,8 @@ AI tools were used **only during development** to assist with:
 
 ## 🚀 Deployment
 
-- **Live Demo**: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
-- **GitHub Repo**: [https://github.com/your-username/web-kalkulator](https://github.com/your-username/web-kalkulator)
+- **Live Demo**: [https://your-vercel-link.vercel.app](https://webby-calculator.vercel.app/)
+- **GitHub Repo**: [https://github.com/your-username/web-kalkulator](https://github.com/ALVIN2005-GIT/Webby-Calculator)
 
 ---
 
