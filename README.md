@@ -1,59 +1,38 @@
-# Capstone Project: Web Calculator
+# Webby Calculator 🧮
 
-## 📌 Project Overview
+## 📌 Overview
+**Webby Calculator** is a responsive, web-based calculator that allows users to perform basic arithmetic operations. It was developed as part of a capstone project to demonstrate front-end web development skills and AI-assisted code generation.
 
-**Web Kalkulator** is a simple, browser-based calculator application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
-
-The app is responsive, lightweight, and designed for users who need quick access to a basic calculator from any device via the web.
-
----
-
-## 🧰 Technologies Used
-
-- **HTML** – to structure the calculator UI
-- **CSS** – to style the buttons, layout, and make it responsive
-- **JavaScript** – to handle the calculator logic and user interaction
-- **Vercel** – for deploying the app live on the web
-
----
+This app is lightweight, clean, and accessible across all devices.
 
 ## ✨ Features
+- Real-time arithmetic operations
+- Responsive layout (desktop and mobile)
+- Clean UI with intuitive buttons
+- Reset/Clear function
 
-- Clean, modern UI with responsive layout
-- Real-time calculation as user clicks buttons
-- Supports:
-  - Addition, Subtraction
-  - Multiplication, Division
-  - Decimal numbers
-  - Clear (reset) functionality
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Vercel (Deployment)
 
----
+## 🤖 AI Support Explanation
+During development, I used **IBM Granite AI** and **ChatGPT** to:
+- Generate boilerplate HTML/CSS/JS
+- Fix layout bugs and logic errors
+- Optimize code readability and structure
 
-## ⚙️ AI Support Explanation
+> AI was only used in development, not embedded in the final app.
 
-AI tools were used **only during development** to assist with:
+## 🚀 Live Demo & Repository
+- 🔗 [Live on Vercel](https://webby-calculator.vercel.app/)
+- 💾 [GitHub Repo](https://github.com/ALVIN2005-GIT/Webby-Calculator)
 
-- Designing the calculator layout in HTML/CSS
-- Writing and optimizing JavaScript logic
-- Debugging user interaction issues
-- Creating a minimal and user-friendly interface
+## 📸 Screenshot
 
-### Tools Used:
-- **IBM Granite AI (or ChatGPT / GitHub Copilot)**
+![Webby Calculator Screenshot](assets/screenshot.png)
 
-> Note: No AI components are embedded in the final deployed application. The AI was used purely to speed up and improve the development process.
-
----
-
-## 🚀 Deployment
-
-- **Live Demo**: [https://your-vercel-link.vercel.app](https://webby-calculator.vercel.app/)
-- **GitHub Repo**: [https://github.com/your-username/web-kalkulator](https://github.com/ALVIN2005-GIT/Webby-Calculator)
-
----
-
-## 🛠️ Setup Instructions (For Local Testing)
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/web-kalkulator.git
+## 👤 Author
+- Alvin
+- Capstone: Web Development & AI-assisted Coding
