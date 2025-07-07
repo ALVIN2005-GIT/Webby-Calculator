@@ -23,6 +23,11 @@ During development, I used **IBM Granite AI** and **ChatGPT** to:
 - Fix layout bugs and logic errors
 - Optimize code readability and structure
 
+  AI Support:
+- Used IBM Granite/ChatGPT to build layout faster
+- Helped debug JavaScript logic
+- Assisted in writing cleaner and modular code
+
 > AI was only used in development, not embedded in the final app.
 
 ## 📸 Screenshot
