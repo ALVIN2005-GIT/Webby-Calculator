@@ -29,10 +29,6 @@ During development, I used **IBM Granite AI** and **ChatGPT** to:
 - 🔗 [Live on Vercel](https://webby-calculator.vercel.app/)
 - 💾 [GitHub Repo](https://github.com/ALVIN2005-GIT/Webby-Calculator)
 
-## 📸 Screenshot
-
-![Webby Calculator Screenshot](assets/screenshot.png)
-
 ## 👤 Author
 - Alvin
 - Capstone: Web Development & AI-assisted Coding
