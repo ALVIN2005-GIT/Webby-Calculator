@@ -25,6 +25,12 @@ During development, I used **IBM Granite AI** and **ChatGPT** to:
 
 > AI was only used in development, not embedded in the final app.
 
+## 📸 Screenshot
+
+![Webby Calculator Screenshot](assets/Picture1.png)
+![Webby Calculator Screenshot](assets/Picture2.png)
+![Webby Calculator Screenshot](assets/Picture3.png)
+
 ## 🚀 Live Demo & Repository
 - 🔗 [Live on Vercel](https://webby-calculator.vercel.app/)
 - 💾 [GitHub Repo](https://github.com/ALVIN2005-GIT/Webby-Calculator)
